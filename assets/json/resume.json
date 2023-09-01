@@ -1,69 +1,115 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Elia Zonta",
+    "label": "Computer Engineering student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "elia.zontaa@gmail.com",
+    "phone": "(+39) 366-535-9945",
+    "url": "https://eliazonta.github.io/",
+    "summary": "An italian computer engineering student, my personal interests address parallel computing, graph neural networks and geometric deep learning.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "TN 38123",
+      "city": "Trento",
+      "countryCode": "IT",
+      "region": "Italy"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Happyeliia",
+        "url": "https://twitter.com/happyeliia"
       }
     ]
   },
-  "work": [
+  "education": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
+      "institution": "University of Trento, Trento, Italy",
+      "url": "https://www.disi.unitn.it/",
+      "area": "Computer , Communications and Electronics Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "Sept. 2021",
+      "endDate": "Now",
+      "score": "",
+      "courses": [
+        "Linear Algebra", "Software Engineering", "Computer Architectures", "GPU Computing" 
+      ]
+    },
+    {
+      "institution": "Enrico Fermi Technical Institute, Bassano del Grappa, Italy",
+      "url": "https://www.fermibassano.edu.it",
+      "area": "Electronics, automation and robotics",
+      "studyType": "High School Degree",
+      "startDate": "Sept. 2016",
+      "endDate": "Jul. 2021",
+      "score": "",
+      "courses": [
       ]
     }
   ],
-  "volunteer": [],
-  "education": [
+  
+  "work": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": [
-        "Theory of Relativity"
+      "name": "Forschungszentrum Jülich, Institute for Advanced Simulations (IAS-4/JSC)",
+      "position": "Research Intern",
+      "url": "https://www.fz-juelich.de/de",
+      "startDate": "Aug. 2023",
+      "endDate": "Now",
+      "summary": "",
+      "highlights": [
+        "Parallel Computing", "Geometric Deep Learning", "Graph Neural Networks"
+      ]
+    },
+    {
+      "name": "Fondazione Bruno Kessler, Research Centre",
+      "position": "Research Intern",
+      "url": "https://fbk.eu",
+      "startDate": "Mar. 2023",
+      "endDate": "Aug. 2023",
+      "summary": "Performance and inference optimization of CNNs on ESP-32 boards for computer vision tasks.",
+      "highlights": [
+          "Deep Learning", "Edge AI", "TinyML"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "name": "Fondazione Bruno Kessler, Research Centre",
+      "position": "Embedded Systems Software Developer",
+      "url": "https://fbk.eu",
+      "startDate": "Jun. 2023",
+      "endDate": "Aug. 2023",
+      "summary": "Collaborated in a no-profit project for an exhibit to be presented at OHBM 2023, the annual meeting of neurocognitive scientists community.",
+      "highlights": [
+          "Embedded Sysyems"
+      ]
+    },
+    {
+      "name": "Lead The Future Mentorship",
+      "position": "Mentee",
+      "url": "https://www.leadthefuture.tech",
+      "startDate": "Mar. 2023",
+      "endDate": "Now",
+      "summary": "Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with acceptance rate below 20%. LeadTheFuture empowers top-performing students to achieve their goals and contribute to their communities by giving them one-on-one guidance from high-impact mentors coming from the world's leading STEM innovation hubs.",
+      "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Public AI Challenge 2022",
+      "date": "Sept. 2022 - Dec. 2022",
+      "awarder": "Third place",
+      "summary": "12 weeks research-based challenge among teams of students working on problems proposed by private companies and public administration, tackled using Artificial Intelligence. My team worked on a data-validation problem proposed by MeteoTrentino, the weather monitoring office of the Trentino region."
     }
   ],
-  "certificates": [],
+  "certificates": [
+  ],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {

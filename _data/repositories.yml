@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - eliazonta
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - eliazonta/K-Means
+  - eliazonta/SpMV
+  - eliazonta/AI-Challenge-HIT
+  - eliazonta/AR-Projects
