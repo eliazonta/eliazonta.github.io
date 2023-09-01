@@ -123,9 +123,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Elia's Whitespace # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Why would I start a blog? Why haven't you started yours yet?
+blog_name: Elia's whitespace # blog_name will be displayed in your blog page
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: A blog? Why haven't you started yours yet?
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -161,7 +161,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+    rss_url: https://medium.com/@ezonta
 
 # -----------------------------------------------------------------------------
 # Collections
