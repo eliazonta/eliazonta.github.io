@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate computer engineering student, <a href='mailto:elia.zontaa@gmail.com'>Reach me out</a> 
+subtitle: '"1% better than yesterday"'
 
 profile:
   align: right
@@ -21,10 +21,11 @@ social: true  # includes social icons at the bottom of the page
 I'm Elia, a computer engineering student from Italy, 
 currently at University of Trento, [Information Engineering department.](https://www.disi.unitn.it)
 
-My personal interests address parallel and GPU computing, graph neural networks and geometric deep learning.
-I'm currently at the Institute for Advanced Simulations in [Forschungszentrum Jülich](https://www.fz-juelich.de/en).
-AAAAA Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My personal studies and interests address parallel and GPU computing, graph neural networks and geometric deep learning, moreover learning ad developing methods and techniques that help speeding up algorithms and simulations.
+I'm currently a research intern at the Institute for Advanced Simulations in [Forschungszentrum Jülich](https://www.fz-juelich.de/en) applying graph neural networks in order to speedup CFD simulations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Strong beliver in cross disciplinary teams and projects, fascinated by MD simulations and AI driven drug discovery.
+In my spare time I enjoy [reading](https://www.goodreads.com/eliazonta), going to the gym (calisthenics workouts enthusiasts), snowboarding during winters ❄️ and windsurfing during summers ☀️ !
+Started practicing yoga and surfing recently, but still a kook ;)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<a href='mailto:elia.zontaa@gmail.com'>Reach me out</a> 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: K-Means 
+description: K-Means algorithm implementation in C++ with OpenMP
+img: assets/img/k-means.svg
+importance: 1
+category: fun
+related_publications: # einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
