@@ -30,7 +30,7 @@
       "studyType": "Bachelor of Engineering",
       "startDate": "Sept. 2021",
       "endDate": "Now",
-      "score": "",
+      "score": "Current GPA: 86%",
       "courses": [
         "Linear Algebra", "Software Engineering", "Computer Architectures", "GPU Computing" 
       ]
@@ -42,7 +42,7 @@
       "studyType": "High School Degree",
       "startDate": "Sept. 2016",
       "endDate": "Jul. 2021",
-      "score": "",
+      "score": "94/100",
       "courses": [
       ]
     }
@@ -57,13 +57,14 @@
       "endDate": "Now",
       "summary": "",
       "highlights": [
-        "Parallel Computing", "Geometric Deep Learning", "Graph Neural Networks"
+        "Parallel Computing", "Geometric Deep Learning", "Graph Neural Networks",
+         "Computational Fluid Dynamics (CFD) Simulations"
       ]
     },
     {
       "name": "Fondazione Bruno Kessler, Research Centre",
       "position": "Research Intern",
-      "url": "https://fbk.eu",
+      "url": "https://www.fbk.eu/en/",
       "startDate": "Mar. 2023",
       "endDate": "Aug. 2023",
       "summary": "Performance and inference optimization of CNNs on ESP-32 boards for computer vision tasks.",
@@ -76,12 +77,12 @@
     {
       "name": "Fondazione Bruno Kessler, Research Centre",
       "position": "Embedded Systems Software Developer",
-      "url": "https://fbk.eu",
+      "url": "https://www.fbk.eu/en/",
       "startDate": "Jun. 2023",
       "endDate": "Aug. 2023",
       "summary": "Collaborated in a no-profit project for an exhibit to be presented at OHBM 2023, the annual meeting of neurocognitive scientists community.",
       "highlights": [
-          "Embedded Sysyems"
+          "Embedded Systems"
       ]
     },
     {
@@ -114,9 +115,13 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fully working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
     }
-  ],
+    ],
   "interests": [],
   "references": [],
   "projects": []

@@ -22,10 +22,11 @@ I'm Elia, a computer engineering student from Italy,
 currently at University of Trento, [Information Engineering department.](https://www.disi.unitn.it)
 
 My personal studies and interests address parallel and GPU computing, graph neural networks and geometric deep learning, moreover learning ad developing methods and techniques that help speeding up algorithms and simulations.
-I'm currently a research intern at the Institute for Advanced Simulations in [Forschungszentrum Jülich](https://www.fz-juelich.de/en) applying graph neural networks in order to speedup CFD simulations.
+I'm currently a Research Intern at the Institute for Advanced Simulations in [Forschungszentrum Jülich](https://www.fz-juelich.de/en) speeding up Computational Fluid Dynamics (CFD) simulations using graph neural networks.
 
-Strong beliver in cross disciplinary teams and projects, fascinated by MD simulations and AI driven drug discovery.
-In my spare time I enjoy [reading](https://www.goodreads.com/eliazonta), going to the gym (calisthenics workouts enthusiasts), snowboarding during winters ❄️ and windsurfing during summers ☀️ !
-Started practicing yoga and surfing recently, but still a kook ;)
+Strong beliver in cross disciplinarity, fascinated by [MD simulations](https://en.wikipedia.org/wiki/Molecular_dynamics) and AI-driven [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery).
+
+In my spare time I enjoy [reading](https://www.goodreads.com/eliazonta), going to the gym, snowboarding during winters ❄️ and windsurfing during summers ☀️ !
+
 
 <a href='mailto:elia.zontaa@gmail.com'>Reach me out</a> 
