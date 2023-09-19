@@ -21,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 I'm Elia, a computer engineering student from Italy, 
 currently at University of Trento, [Information Engineering department.](https://www.disi.unitn.it)
 
-My personal studies and interests address parallel and GPU computing, graph neural networks and geometric deep learning, moreover learning ad developing methods and techniques that help speeding up algorithms and simulations.
-I'm currently a Research Intern at the Institute for Advanced Simulations in [Forschungszentrum Jülich](https://www.fz-juelich.de/en) speeding up Computational Fluid Dynamics (CFD) simulations using graph neural networks.
+My personal studies and interests address parallel and GPU computing, graph neural networks and geometric deep learning, moreover learning and developing methods and techniques that helps speeding up algorithms and simulations.
+I'm currently a Research Intern at the Institute for Advanced Simulations in [Forschungszentrum Jülich](https://www.fz-juelich.de/en) speeding up Computational Fluid Dynamics (CFD) simulations using physics-aware graph neural networks.
 
 Strong beliver in cross disciplinarity, fascinated by [MD simulations](https://en.wikipedia.org/wiki/Molecular_dynamics) and AI-driven [drug discovery](https://en.wikipedia.org/wiki/Drug_discovery).
 
