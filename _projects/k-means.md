@@ -84,3 +84,4 @@ Recommendation Systems: K-Means can assist in building recommendation engines by
 K-Means clustering is a fundamental algorithm in the field of unsupervised learning, with a broad range of applications. Understanding its principles and how to use it effectively can empower data scientists and analysts to extract valuable insights from their data. However, it's essential to keep in mind its **limitations** and the need for thoughtful parameter tuning, especially when dealing with real-world datasets. K-Means is just one tool in the vast toolbox of machine learning, but it's undoubtedly a valuable one for data segmentation and pattern discovery.
 
 ----------------------------------
+[Code](https://github.com/eliazonta/K-Means.git)
