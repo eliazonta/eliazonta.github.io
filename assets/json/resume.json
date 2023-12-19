@@ -6,11 +6,11 @@
     "email": "elia.zontaa@gmail.com",
     "phone": "(+39) 366-535-9945",
     "url": "https://eliazonta.github.io/",
-    "summary": "An italian computer engineering student, my personal interests address parallel computing, graph neural networks and geometric deep learning.",
+    "summary": "An italian computer engineering student, my personal interests address parallel and high-performance computing and low latency code.",
     "location": {
       "address": "",
-      "postalCode": "TN 38123",
-      "city": "Trento",
+      "postalCode": "VI 36022",
+      "city": "Cassola",
       "countryCode": "IT",
       "region": "Italy"
     },
@@ -50,18 +50,6 @@
   
   "work": [
     {
-      "name": "Forschungszentrum Jülich, Institute for Advanced Simulations (IAS-4/JSC)",
-      "position": "Research Intern",
-      "url": "https://www.fz-juelich.de/de",
-      "startDate": "Aug. 2023",
-      "endDate": "Now",
-      "summary": "",
-      "highlights": [
-        "Parallel Computing", "Geometric Deep Learning", "Graph Neural Networks",
-         "Computational Fluid Dynamics (CFD) Simulations"
-      ]
-    },
-    {
       "name": "Fondazione Bruno Kessler, Research Centre",
       "position": "Research Intern",
       "url": "https://www.fbk.eu/en/",
@@ -70,6 +58,29 @@
       "summary": "Performance and inference optimization of CNNs on ESP-32 boards for computer vision tasks.",
       "highlights": [
           "Deep Learning", "Edge AI", "TinyML"
+      ]
+    },
+    {
+      "name": "Forschungszentrum Jülich, Institute for Advanced Simulations (IAS-4/JSC)",
+      "position": "Research Intern",
+      "url": "https://www.fz-juelich.de/de",
+      "startDate": "Aug. 2023",
+      "endDate": "Oct. 2023",
+      "summary": "",
+      "highlights": [
+        "Parallel Computing", "Graph Neural Networks",
+         "Computational Fluid Dynamics (CFD) Simulations"
+      ]
+    },
+    {
+      "name": "Pirelli",
+      "position": "Data Science Intern",
+      "url": "https://www.pirelli.com/global/en-ww/homepage/",
+      "startDate": "Sept. 2023",
+      "endDate": "Dec. 2023",
+      "summary": "",
+      "highlights": [
+          "Data Science", "Machine Learning", "Statistics"
       ]
     }
   ],
@@ -94,6 +105,16 @@
       "summary": "Among the few Italian students selected to be mentees for LeadTheFuture, a leading mentorship non-profit organization for students in STEM, with acceptance rate below 20%. LeadTheFuture empowers top-performing students to achieve their goals and contribute to their communities by giving them one-on-one guidance from high-impact mentors coming from the world's leading STEM innovation hubs.",
       "highlights": [
       ]
+    }, 
+    {
+      "name": "Junior Enterprise Trento (JETN)",
+      "position": "Mentee",
+      "url": "https://www.jetn.it",
+      "startDate": "Oct. 2023",
+      "endDate": "Now",
+      "summary": "",
+      "highlights": [
+      ]
     }
   ],
   "awards": [
@@ -102,6 +123,12 @@
       "date": "Sept. 2022 - Dec. 2022",
       "awarder": "Third place",
       "summary": "12 weeks research-based challenge among teams of students working on problems proposed by private companies and public administration, tackled using Artificial Intelligence. My team worked on a data-validation problem proposed by MeteoTrentino, the weather monitoring office of the Trentino region."
+    },
+    {
+      "title": "Industrial AI Challenge 2023",
+      "date": "Sept. 2023 - Dec. 2023",
+      "awarder": "Second place",
+      "summary": "12 weeks research based project, developing a predictive maintenance algorithm for tyre vulcanisation processes."
     }
   ],
   "certificates": [
