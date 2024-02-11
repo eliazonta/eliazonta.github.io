@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 I'm Elia, a Computer Engineering student from Italy, 
 currently at University of Trento, [Information Engineering department](https://www.disi.unitn.it).
 
-My personal interests address high-performance computing and GPU programming, but specifically how these techniques optimise and speed up algorithms and models in quantitative finance.
+I am particularly focused on GPGPUs, modern C++, and low-latency programming, with a specific emphasis on the application and optimization of models and algorithms within the field of quantitative finance.
 
 Strong believer in cross disciplinarity, fascinated by stochastic processes, parallel optimizations and chaos theory.
 
