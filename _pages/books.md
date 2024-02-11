@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: Fav readings
+title: readings
 description: Please, start reading now.
 nav: true
 # nav_order:  5 # removed from nav
