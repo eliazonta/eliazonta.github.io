@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: template
 description: a project with a background image and giscus comments
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
