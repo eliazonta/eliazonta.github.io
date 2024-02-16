@@ -2,7 +2,7 @@ github_users:
   - eliazonta
 
 github_repos:
-  - eliazonta/K-Means
-  - eliazonta/SpMV
-  - eliazonta/AI-Challenge-HIT
-  - eliazonta/AR-Projects
+  - eliazonta/Pirelli-Challenge-2023
+  - AlphaNightLight/parallel_k_means 
+  - eliazonta/insight-tho
+  - eliazonta/Option-Pricing-CUDA
