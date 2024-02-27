@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 I'm Elia, a Computer Engineering student from Italy, 
 currently at University of Trento, [Information Engineering department](https://www.disi.unitn.it).
 
-I am particularly focused on GPGPUs, modern C++, and low-latency programming, with a specific emphasis on the application and optimization of models and algorithms within the field of quantitative finance.
+As I advanced in my academic pursuits, I uncovered a deep interest in geometric algorithms, probability modeling, and optimization. Currently, I am actively exploring these fields, utilizing modern C++, low-latency programming techniques and harnessing code accelerators such as GPGPUs. I am eager to concentrate on the convergence of these areas with quantitative finance.
 
-Strong believer in cross disciplinarity, fascinated by stochastic processes, parallel optimizations and chaos theory.
+Strong believer in cross disciplinarity, fascinated by stochastic processes, parallel optimizations and complex systems.
 
-In my spare time I enjoy [reading](https://www.goodreads.com/eliazonta), going to the gym, snowboarding during winters ❄️ and windsurfing during summers ☀️ !
+In my spare time I enjoy [reading](https://eliazonta.github.io/books/), going to the gym, snowboarding during winters ❄️ and windsurfing during summers ☀️ !
 
 
 <a href='mailto:elia.zontaa@gmail.com'>Reach me out</a> 
