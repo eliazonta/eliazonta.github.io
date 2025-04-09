@@ -1,18 +1,14 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Kalman Filters
+description: A gentle introduction to Kalman filters and a simple application
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: uni
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in iaculis felis, non scelerisque lorem. Ut fermentum ut justo eu semper. Proin vitae ipsum magna. Nulla aliquet vehicula ex posuere lacinia. Donec quis quam ut velit iaculis aliquet. Nulla vel velit iaculis, sodales odio non, interdum enim. In nec rhoncus odio. Integer a consequat lectus, id dictum purus.
 
     ---
     layout: page
