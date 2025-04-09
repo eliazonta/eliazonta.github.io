@@ -30,7 +30,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "did stuff",
-      "highlights": [""]
+      "highlights": ""
     }
   ],
   "education": [
@@ -40,10 +40,10 @@
       "url": "",
       "area": "Applied Mathematics",
       "studyType": "MSc",
-      "startDate": "Sept. 2024",
-      "endDate": "(Sept. 2026)",
+      "startDate": "09-2024",
+      "endDate": "(09-2026)",
       "score": "",
-      "courses": [""]
+      "courses": ""
     },
     {
       "institution": "Cornell University - Università di Trento",
@@ -51,10 +51,10 @@
       "url": "",
       "area": "Computer Science & Engineering",
       "studyType": "BSc",
-      "startDate": "Sept. 2021",
-      "endDate": "Sept. 2024",
+      "startDate": "09-2021",
+      "endDate": "09-2024",
       "score": "",
-      "courses": [""]
+      "courses": ""
     }
   ],
   "languages": [
