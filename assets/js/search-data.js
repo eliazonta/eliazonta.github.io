@@ -412,20 +412,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "news-just-joined-cornell-university-️",
+          title: 'Just joined Cornell University! 🐻🇺🇸❤️🥳',
+          description: "",
+          section: "News",},{id: "news-i-decided-to-swich-major-for-my-masters-here-39-s-why",
+          title: 'I decided to swich major for my masters, here&amp;#39;s why.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-kalman-filters",
+          title: 'Kalman Filters',
+          description: "A gentle introduction to Kalman filters and a simple application",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
