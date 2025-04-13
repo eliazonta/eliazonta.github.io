@@ -2,7 +2,7 @@
 layout: page
 title: Kalman Filters
 description: A gentle introduction to Kalman filters and a simple application
-img: assets/img/kalman1.gif
+img: assets/img/12.jpg
 importance: 1
 category: fun
 related_publications: true
@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse in iaculis 
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/kalman1.gif
+    img: /assets/img/12.jpg
     ---
 
 <div class="row">
