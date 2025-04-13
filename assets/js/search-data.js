@@ -75,8 +75,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/dc1/";
-            },},{id: "books-",
-          title: '',
+            },},{id: "books-hands-on-machine-learning",
+          title: 'Hands-On Machine Learning',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/handsonML/";
