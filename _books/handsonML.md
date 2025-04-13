@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems
+title: Hands-On Machine Learning
 author:  Aurélien Géron
 cover: #assets/img/book_covers/the_godfather.jpg
 olid: #OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)

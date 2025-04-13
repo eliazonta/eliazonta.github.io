@@ -4,7 +4,7 @@ title: Come parlare in pubblico e convincere gli altri
 author:  Dale Carnagie
 cover: #assets/img/book_covers/the_godfather.jpg
 olid: #OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
-isbn: 8845294951 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+isbn: 9788845294952 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: #classics crime historical-fiction mystery novels thriller
 tags: mindset
 buy_link: https://www.amazon.it/Come-parlare-pubblico-convincere-altri/dp/8845294951
