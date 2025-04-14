@@ -102,7 +102,7 @@ ninja.data = [{
           title: 'Kalman Filters',
           description: "A gentle introduction to Kalman filters and a simple application",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/kalman-filters/";
             },},{
         id: 'social-email',
         title: 'email',
