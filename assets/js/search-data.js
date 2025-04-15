@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/why/";
           
         },
+      },{id: "post-i-decided-to-swich-major-for-my-masters-here-39-s-why",
+        
+          title: "I decided to swich major for my masters, here&#39;s why.",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/masters/";
+          
+        },
       },{id: "books-atomic-habits",
           title: 'Atomic Habits',
           description: "",
