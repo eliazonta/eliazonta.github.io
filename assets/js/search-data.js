@@ -101,14 +101,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/siddharta/";
-            },},{id: "news-just-joined-cornell-university-️",
-          title: 'Just joined Cornell University! 🐻🇺🇸❤️🥳',
-          description: "",
-          section: "News",},{id: "news-i-decided-to-swich-major-for-my-masters-here-39-s-why",
-          title: 'I decided to swich major for my masters, here&amp;#39;s why.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "projects-kalman-filters",
           title: 'Kalman Filters',
           description: "A gentle introduction to Kalman filters and a simple application",
