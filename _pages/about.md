@@ -26,12 +26,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I’m a math nerd with a BSc in CS @ Cornell, but I’ve been all over the quantitative map—parallel computing, high-dim data, low-latency coding. Lately, I’m diving deep into more theoretical math: stochastic processes, random walks, opinion dynamics—basically, all the fun, “complex” stuff that makes systems tick. Always chasing structure in the chaos.
+I’m a math nerd with a BSc in CS @ Cornell, but I’ve been all over the quantitative map—parallel computing, high-dim data, low-latency coding. Lately, I’m diving deep into more theoretical math: stochastic processes, random walks, opinion dynamics, basically, all the fun, “complex” stuff that makes systems tick. **Always chasing structure in the chaos**.
 
 
->“The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts.”
->
->B. Russel
+> Sapere aude.
 
 [elia dot zontaa at gmail dot com](mailto:elia.zontaa@gmail.com?subject=ice-break)
 
