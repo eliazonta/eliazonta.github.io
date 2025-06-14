@@ -55,11 +55,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/why/";
           
         },
-      },{id: "post-i-decided-to-swich-major-for-my-masters-here-39-s-why",
+      },{id: "post-master-39-s-degree-choice",
         
-          title: "I decided to swich major for my masters, here&#39;s why.",
+          title: "Master&#39;s degree choice",
         
-        description: "",
+        description: "I decided to swich major for my masters, here&#39;s why.",
         section: "Posts",
         handler: () => {
           
